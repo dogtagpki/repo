@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.pki</groupId>
   <artifactId>pki-tomcat</artifactId>
   <versioning>
-    <lastUpdated>20250718191605</lastUpdated>
+    <lastUpdated>20250923184308</lastUpdated>
     <snapshot>
-      <timestamp>20250718.191605</timestamp>
+      <timestamp>20250923.184308</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>11.9.0-20250718.191605-1</value>
-        <updated>20250718191605</updated>
+        <value>11.9.0-20250923.184308-1</value>
+        <updated>20250923184308</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>11.9.0-20250718.191605-1</value>
-        <updated>20250718191605</updated>
+        <value>11.9.0-20250923.184308-1</value>
+        <updated>20250923184308</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
