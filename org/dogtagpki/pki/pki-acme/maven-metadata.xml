@@ -4,8 +4,8 @@
   <artifactId>pki-acme</artifactId>
   <versioning>
     <versions>
-      <version>11.7.0-SNAPSHOT</version>
+      <version>11.9.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20251007092512</lastUpdated>
+    <lastUpdated>20251009152606</lastUpdated>
   </versioning>
 </metadata>
