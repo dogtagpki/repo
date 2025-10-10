@@ -3,16 +3,16 @@
   <groupId>org.dogtagpki.jss</groupId>
   <artifactId>jss-parent</artifactId>
   <versioning>
-    <lastUpdated>20251008224320</lastUpdated>
+    <lastUpdated>20251010171633</lastUpdated>
     <snapshot>
-      <timestamp>20251008.224320</timestamp>
+      <timestamp>20251010.171633</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5.9.0-20251008.224320-1</value>
-        <updated>20251008224320</updated>
+        <value>5.9.0-20251010.171633-1</value>
+        <updated>20251010171633</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
