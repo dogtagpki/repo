@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.pki</groupId>
   <artifactId>pki-acme</artifactId>
   <versioning>
-    <lastUpdated>20251013150550</lastUpdated>
+    <lastUpdated>20251014184105</lastUpdated>
     <snapshot>
-      <timestamp>20251013.150550</timestamp>
+      <timestamp>20251014.184105</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>11.9.0-20251013.150550-1</value>
-        <updated>20251013150550</updated>
+        <value>11.9.0-20251014.184105-1</value>
+        <updated>20251014184105</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>11.9.0-20251013.150550-1</value>
-        <updated>20251013150550</updated>
+        <value>11.9.0-20251014.184105-1</value>
+        <updated>20251014184105</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
