@@ -3,16 +3,16 @@
   <groupId>org.dogtagpki.pki</groupId>
   <artifactId>pki-base-parent</artifactId>
   <versioning>
-    <lastUpdated>20260916231247</lastUpdated>
+    <lastUpdated>20260918181710</lastUpdated>
     <snapshot>
-      <timestamp>20260916.231247</timestamp>
+      <timestamp>20260918.181710</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>11.9.2-20260916.231247-1</value>
-        <updated>20260916231247</updated>
+        <value>11.9.2-20260918.181710-1</value>
+        <updated>20260918181710</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
