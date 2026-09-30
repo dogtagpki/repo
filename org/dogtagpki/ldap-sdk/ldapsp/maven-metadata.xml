@@ -4,8 +4,8 @@
   <artifactId>ldapsp</artifactId>
   <versioning>
     <versions>
-      <version>5.6.0-SNAPSHOT</version>
+      <version>5.7.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20260717012036</lastUpdated>
+    <lastUpdated>20260930141933</lastUpdated>
   </versioning>
 </metadata>
